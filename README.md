@@ -1,18 +1,19 @@
 # Drone Sound Generator (prototype)
 
-## Requiremnt
+## Demo
 
-- Google Chrome
-- Node.js v10.16.0 (for web server)
+- Open https://t-asano.github.io/DroneSoundGenerator/ with Google Chrome.
 
-## Install
+## Develpment
+
+### Install
 
 - $ npm install
 
-## Usage
+### Usage
 
 - $ node server.js
-- Open http://localhost:3000
+- Open http://localhost:3000 with Google Chrome.
 
 ## License
 
