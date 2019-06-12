@@ -1,4 +1,4 @@
-# Drone Sound Generator (prototype)
+# Drone Sound Generator prototype
 
 ## Demo
 
